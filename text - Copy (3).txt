@@ -1,3 +1,0 @@
-my first class for git
-
-this is modified text file (1st time)
