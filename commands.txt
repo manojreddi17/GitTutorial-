@@ -33,3 +33,5 @@ git rm  --cached <fileNmae> -->to untrack the file
 git checkout --fileName --> to undo the change in a file (befor staging)
 
 git log -p -1 --> shows the last commit
+
+git checkout -b <name> --> creating a new branch
