@@ -1,0 +1,35 @@
+git status --> to get the status 
+
+git init -->to initialise the data the folder (to track)
+
+git commit -m "commit message" 
+
+git commit -a -m "direct commit>
+
+git add <file name> --> untracked to staged
+
+git log --> shows all commits
+
+rm -rf .git --> to delete all the data from the folder
+
+pwd --> present working directory
+
+ls --> list content
+
+cd --> change directory
+
+git diff --> compares working directory and staging area
+
+git diff --staged --> compares previous commits and present staging
+
+git rm "file name" --> to remove file
+
+git mv fileName rename  -->to change the name
+
+git rm  --cached <fileNmae> -->to untrack the file
+
+.git clone url <newFolderName> 
+
+
+
+ 
